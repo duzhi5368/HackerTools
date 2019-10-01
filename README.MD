@@ -10,7 +10,7 @@
 - 想看xml文件，就使用 apktool d xxxooo.apk ，这样的xml就不是乱码
 - 想看dex文件，就是用 d2j-dex2jar.bat classes.dex 得到jar包
 - 用jd-gui打开jar包可以看到 .class 代码
-- 访问 http://www.javadecompilers.com/ 将jar包反编译为 .java 源码
+- 访问 http://www.javadecompilers.com/ 将jar包反编译为 .java 源码，或者使用 Procyon 进行反汇编
 - 修改 .java 源码
 - 安装Android studio IDE， 安装Android SDK, 执行SDK Manager安装环境
 - 打包 jar 包
